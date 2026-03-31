@@ -1,16 +1,25 @@
-## Hi there 👋
+<h2 align= "center"> 👋Hi there, I'm Valeria</h2>
+<p align="center"> 
+  <a href="www.linkedin.com/in/valeriacalderontriana"> LinkedIn</a>
+  
+I'm a computer scientist and data science enthusiast from Colombia living in the US 😃
 
-<!--
-**valecalderon/valecalderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me ✨
++ Computer Science and certificate in AI from University of Kentucky #recentgrad 💙
++ Top skills: C#, Python, Java, SQL, Unix and AI methologies
++ 2+ years of proffesional experience in software development and automation 💻
++ 1 year of experience in Data Science 👩‍🎓
++ Uses excel for everything - budgets, travel, meal planning, and goals 📖
++ Dog mom 🐶
 
-Here are some ideas to get you started:
+## How I work 
+Although I recently graduated, I have been in the workforce for more than half my time studying computer science. I strive for excellence, and to pursue opportunities I have always dreamt of. Planning is my thing ✔️ I learn fast and love a good community and diversity. I just want to make my parents and country proud 🫀. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some of my projects 🦾
++
++
++
+
+
+📫 How to reach me: [email](mailto:valery.calderon2003@gmail.com)
+
