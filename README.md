@@ -15,8 +15,8 @@ I'm a computer scientist and data science enthusiast from Colombia living in the
 ## How I work 
 Although I recently graduated, I have been in the workforce for more than half my time studying computer science. I strive for excellence, and to pursue opportunities I have always dreamt of. Planning is my thing ✔️ I learn fast and love a good community and diversity. I just want to make my parents and country proud 🫀. 
 
-## Some of my projects 🦾
-+
+## Some of my projects and portfolios 🦾
++ <a href="https://cdn.flowcode.com/prodassets/greenspace_area_vsbuiltup.pdf?ts=1661559135228779310&fce_id=c16c584b-30e6-419b-b517-49c067724e1d"> R Studio Portfolio</a>
 +
 +
 
