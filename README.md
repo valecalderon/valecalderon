@@ -1,6 +1,6 @@
 <h2 align= "center"> 👋Hi there, I'm Valeria</h2>
 <p align="center"> 
-  <a href="www.linkedin.com/in/valeriacalderontriana"> LinkedIn</a>
+  <a href="https://www.linkedin.com/in/valeriacalderontriana"> LinkedIn</a>
   
 I'm a computer scientist and data science enthusiast from Colombia living in the US 😃
 
@@ -21,5 +21,5 @@ Although I recently graduated, I have been in the workforce for more than half m
 +
 
 
-📫 How to reach me: [email](mailto:valery.calderon2003@gmail.com)
+📫 How to reach me: [gmail](mailto:valery.calderon2003@gmail.com)
 
