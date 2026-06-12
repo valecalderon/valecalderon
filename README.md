@@ -2,13 +2,15 @@
 <p align="center"> 
   <a href="https://www.linkedin.com/in/valeriacalderontriana"> LinkedIn</a>
   
-I'm a computer scientist and data science enthusiast from Colombia living in the US 😃
+I'm a computer scientist and tech creativity enthusiast from Colombia living in the US 😃
 
 ## About me ✨
 + Computer Science and certificate in AI from University of Kentucky #recentgrad 💙
 + Top skills: C#, Python, Java, SQL, Unix and AI methologies
 + 2+ years of proffesional experience in software development and automation 💻
 + 1 year of experience in Data Science 👩‍🎓
++ AI Certification on LSTM, SVM, RNN, Machine Learning and Neural Networks
++ Network Security
 + Uses excel for everything - budgets, travel, meal planning, and goals 📖
 + Dog mom 🐶
 
@@ -17,8 +19,9 @@ Although I recently graduated, I have been in the workforce for more than half m
 
 ## Some of my projects and portfolios 🦾
 + <a href="https://cdn.flowcode.com/prodassets/greenspace_area_vsbuiltup.pdf?ts=1661559135228779310&fce_id=c16c584b-30e6-419b-b517-49c067724e1d"> R Studio Portfolio</a>
-+ For coding projects please reach me in LinkedIn or gmail for access to my portfolio repository :)
++ [Data Science Projects](https://github.com/valecalderon/Projects/tree/main/DataScienceProjects)
++ [Gaming Projects](https://github.com/valecalderon/Projects/tree/main/UnixProjects)
++ [Software Development Projects](https://github.com/valecalderon/Projects/tree/main/SoftwareDevelopmentProjects)
 
-
-📫 How to reach me: [gmail](mailto:valery.calderon2003@gmail.com)
+📫 How to reach me: [gmail](mailto:valery.calderon2003@gmail.com) or directly @ valery.calderon2003@gmail.com
 
