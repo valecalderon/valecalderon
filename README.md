@@ -19,8 +19,8 @@ Although I recently graduated, I have been in the workforce for more than half m
 
 ## Some of my projects and portfolios 🦾
 + <a href="https://cdn.flowcode.com/prodassets/greenspace_area_vsbuiltup.pdf?ts=1661559135228779310&fce_id=c16c584b-30e6-419b-b517-49c067724e1d"> R Studio Portfolio</a>
-+ [Data Science Projects](https://github.com/valecalderon/Projects/tree/main/DataScienceProjects)
-+ [Gaming Projects](https://github.com/valecalderon/Projects/tree/main/UnixProjects)
++ [AI & Data Science Projects](https://github.com/valecalderon/Projects/tree/main/AI&DataScienceProjects)
++ [Gaming Projects](https://github.com/valecalderon/Projects/tree/main/GameDevelopmentProjects)
 + [Software Development Projects](https://github.com/valecalderon/Projects/tree/main/SoftwareDevelopmentProjects)
 
 📫 How to reach me: [gmail](mailto:valery.calderon2003@gmail.com) or directly @ valery.calderon2003@gmail.com
