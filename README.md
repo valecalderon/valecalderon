@@ -4,9 +4,14 @@
   
 I'm a computer scientist and tech creativity enthusiast from Colombia living in the US 😃
 
+## Skills 🤖
++ Cloud & DevOps: AWS, Microsoft Azure, Google Cloud, GitHub, Unix, Agile/Scrum 
++ Programming Languages: Python, Java, SQL, C++, C#, R
++  Frameworks & Libraries: React, TensorFlow, PyTorch
++  Languages: Spanish (Fluent), English (Fluent), French (Conversational) 
+
 ## About me ✨
 + Bachelor's Computer Science and certificate in AI from University of Kentucky Class of 2025 #recentgrad 💙
-+ Top skills: C#, Python, Java, SQL, Unix and AI methodologies
 + 2+ years of professional experience in software development and automation 💻
 + 1 year of experience in Data Science 👩‍🎓
 + AI Certification on LSTM, SVM, RNN, Machine Learning and Neural Networks
