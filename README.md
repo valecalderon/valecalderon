@@ -31,5 +31,10 @@ Although I recently graduated, I have been in the workforce for more than half m
 + [Gaming Projects](https://github.com/valecalderon/Projects/tree/main/GameDevelopmentProjects)
 + [Software Development Projects](https://github.com/valecalderon/Projects/tree/main/SoftwareDevelopmentProjects)
 
+## Research Publications and Posters
++Co-Author of <a href="https://esa2023.eventscribe.net/fsPopup.asp?Mode=posterinfo&PosterID=588838"> Urban Greenspace Conference Poster for Macroecology Lab</a>
+
+
 📫 How to reach me: [gmail](mailto:valery.calderon2003@gmail.com) or directly @ valery.calderon2003@gmail.com
+
 
