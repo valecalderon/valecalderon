@@ -21,7 +21,7 @@ I'm a computer scientist and tech creativity enthusiast from Colombia living in 
 
 ### I am currently...
 + Working on a Google Cloud Security Certificate
-+ Working on building a Facial Recognition Pipeline with Deep Learning in TensorFlow
++ Working on building my own blockchain in Go!
 ## How I work 
 Although I recently graduated, I have been in the workforce for more than half my time studying computer science. I strive for excellence, and to pursue opportunities I have always dreamt of. Planning is my thing ✔️ I learn fast and love a good community and diversity. I just want to make my parents and country proud 🫀. 
 
