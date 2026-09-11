@@ -2,20 +2,20 @@
 <p align="center"> 
   <a href="https://www.linkedin.com/in/valeriacalderontriana"> LinkedIn</a>
   
-I'm a computer scientist and tech creativity enthusiast from Colombia living in the US 😃
+I'm a software engineer and tech creativity enthusiast from Colombia living in the US 😃
 
 ## Skills 🤖
 + Cloud & DevOps: AWS, Microsoft Azure, Google Cloud, GitHub, Unix, Agile/Scrum 
-+ Programming Languages: Python, Java, SQL, C++, C#, R
-+  Frameworks & Libraries: React, TensorFlow, PyTorch
-+  Languages: Spanish (Fluent), English (Fluent), French (Conversational) 
++ Programming Languages: Python, C++, Linux, Java, SQL, C#, Unity, R
++ Frameworks & Libraries: React, TensorFlow, PyTorch
++ Languages: Spanish (Fluent), English (Fluent), French (Conversational) 
 
 ## About me ✨
 + Bachelor's Computer Science and certificate in AI from University of Kentucky Class of 2025 #recentgrad 💙
 + 2+ years of professional experience in software development and automation 💻
 + 1 year of experience in Data Science 👩‍🎓
 + AI Certification on LSTM, SVM, RNN, Machine Learning and Neural Networks
-+ Network Security
++ Network Security experience on TCP/IP
 + Uses excel for everything - budgets, travel, meal planning, and goals 📖
 + Dog mom 🐶
 
@@ -23,7 +23,7 @@ I'm a computer scientist and tech creativity enthusiast from Colombia living in 
 + Working on a Google Cloud Security Certificate
 + Working on building my own blockchain in Go!
 ## How I work 
-Although I recently graduated, I have been in the workforce for more than half my time studying computer science. I strive for excellence, and to pursue opportunities I have always dreamt of. Planning is my thing ✔️ I learn fast and love a good community and diversity. I just want to make my parents and country proud 🫀. 
+Although I recently graduated, I have been in the workforce for more than half my time studying computer science. I strive for excellence, and to pursue opportunities I have always dreamt of. Planning is my thing ✔️ I learn fast, problem solving is my strength and I love a good community and diversity. I just want to make my parents and country proud 🫀. 
 
 ## Some of my projects and portfolios 🦾
 + <a href="https://cdn.flowcode.com/prodassets/greenspace_area_vsbuiltup.pdf?ts=1661559135228779310&fce_id=c16c584b-30e6-419b-b517-49c067724e1d"> R Studio Portfolio</a>
