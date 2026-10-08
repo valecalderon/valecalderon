@@ -22,6 +22,7 @@ I'm a software engineer and tech creativity enthusiast from Colombia living in t
 ### I am currently...
 + Working on a Google Cloud Security Certificate
 + Working on building my own blockchain in Go!
++ Building an automated testing suite using XUnit
 ## How I work 
 Although I recently graduated, I have been in the workforce for more than half my time studying computer science. I strive for excellence, and to pursue opportunities I have always dreamt of. Planning is my thing ✔️ I learn fast, problem solving is my strength and I love a good community and diversity. I just want to make my parents and country proud 🫀. 
 
